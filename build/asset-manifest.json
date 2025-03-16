@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Avjot-Singh-Chawla-Portfolio/static/css/main.efc5eae3.css",
+    "main.js": "/Avjot-Singh-Chawla-Portfolio/static/js/main.2e65de57.js",
+    "index.html": "/Avjot-Singh-Chawla-Portfolio/index.html",
+    "main.efc5eae3.css.map": "/Avjot-Singh-Chawla-Portfolio/static/css/main.efc5eae3.css.map",
+    "main.2e65de57.js.map": "/Avjot-Singh-Chawla-Portfolio/static/js/main.2e65de57.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.efc5eae3.css",
+    "static/js/main.2e65de57.js"
+  ]
+}
