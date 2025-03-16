@@ -1,67 +1,70 @@
-# Avjot Singh Chawla's Portfolio Website
+# Getting Started with Create React App
 
-A dynamic and responsive portfolio website built with React. This repository showcases my professional experience, projects, education, certifications, skills, and contact details—all presented in a modern, customizable UI.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Table of Contents
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Customization](#customization)
-- [Contributing](#contributing)
-- [Contact](#contact)
+## Available Scripts
 
-## Features
-- **Responsive Design:** Mobile-friendly layout ensures a great device experience.
-- **Dynamic Sections:** Organized sections including About, Projects, Experience, Education, Certifications, Skills, and Contact.
-- **Customizable:** Easily update content and styling to reflect your personal branding.
-- **React-Based:** Utilizes React components for a modular and maintainable codebase.
-- **Modern UI:** Clean, intuitive interface with a sticky navbar for seamless navigation.
+In the project directory, you can run:
 
-## Technologies Used
-- **React:** Frontend library for building the user interface.
-- **CSS:** Styling and responsive design.
-- **HTML5:** Semantic structure.
-- **JavaScript:** Core scripting language.
+### `npm start`
 
-## Installation
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-### Prerequisites
-- [Node.js](https://nodejs.org/) (v12 or later)
-- npm (comes with Node.js)
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-### Steps
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/Avjot-Chawla/my-portfolio.git
-   cd my-portfolio
-   ```
-2. **Install Dependencies**
-   ```bash
-   npm install
-   ```
-3. **Start the Development Server**
-   ```bash
-   npm start
-   ```
-   The website will open in your default browser at [http://localhost:3000](http://localhost:3000).
+### `npm test`
 
-## Usage
-- **Development:** Edit files in the `src` directory. Components are organized in `src/components`.
-- **Production Build:** When ready to deploy, run:
-  ```bash
-  npm run build
-  ```
-- **Deployment:** Deploy the production build on platforms like GitHub Pages, Vercel, or Netlify.
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-## Customization
-- **Header Component:** Update your photo, name, tagline, and contact details in `src/components/Header.js`.
-- **Content Sections:** Modify the text in `About.js`, `Projects.js`, `Experience.js`, `Education.js`, `Certifications.js`, `Skills.js`, and `Contact.js` as needed.
-- **Styling:** Adjust global styles in `src/App.css` to match your desired look and feel.
+### `npm run build`
 
-## Contributing
-Contributions are welcome! Feel free to open an issue or submit a pull request if you have suggestions or improvements.
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-## Contact
-- **Email:** [avjot.s.chawla@gmail.com](mailto:avjot.s.chawla@gmail.com)
-- **LinkedIn:** [Avjot Singh Chawla](https://www.linkedin.com/in/avjot-singh-chawla)
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
