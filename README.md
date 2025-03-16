@@ -64,5 +64,4 @@ Contributions are welcome! Feel free to open an issue or submit a pull request i
 
 ## Contact
 - **Email:** [avjot.s.chawla@gmail.com](mailto:avjot.s.chawla@gmail.com)
-- **GitHub:** [Avjot-Chawla](https://github.com/Avjot-Chawla)
 - **LinkedIn:** [Avjot Singh Chawla](https://www.linkedin.com/in/avjot-singh-chawla)
